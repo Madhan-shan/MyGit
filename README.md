@@ -1,0 +1,2 @@
+# MyGit
+To install git
